@@ -5,7 +5,7 @@ title:
   en-US: Custom transition effect
 ---
 
-## zh-CN
+## en-US
 
 通过继承 `NzCarouselBaseStrategy` 自定义轮播图切换动画。
 
